@@ -1,0 +1,14 @@
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\bin\Debug\net9.0\Inventory-control.exe
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\bin\Debug\net9.0\Inventory-control.deps.json
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\bin\Debug\net9.0\Inventory-control.runtimeconfig.json
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\bin\Debug\net9.0\Inventory-control.dll
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\bin\Debug\net9.0\Inventory-control.pdb
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventory-control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventory-control.AssemblyInfoInputs.cache
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventory-control.AssemblyInfo.cs
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventory-control.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventory-control.dll
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\refint\Inventory-control.dll
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventory-control.pdb
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventory-control.genruntimeconfig.cache
+C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\ref\Inventory-control.dll
