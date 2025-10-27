@@ -1,0 +1,9 @@
+# Carpetas generadas por Visual Studio
+.vs/
+*/bin/
+*/obj/
+
+# Archivos específicos generados por VS
+*.pdb
+*.suo
+*.user

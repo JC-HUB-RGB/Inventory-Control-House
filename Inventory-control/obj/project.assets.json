@@ -297,24 +297,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GEORGE III\\.nuget\\packages\\": {}
+    "C:\\Users\\GEORGE III\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GEORGE III\\Repositorios-Trabajo\\Inventory-Control-House\\Inventory-Control\\Inventory-control.csproj",
+      "projectUniqueName": "C:\\Users\\GEORGE III\\Repositorios-Trabajo\\Inventory-Control-House\\Inventory-control\\Inventory-control.csproj",
       "projectName": "Inventory-control",
-      "projectPath": "C:\\Users\\GEORGE III\\Repositorios-Trabajo\\Inventory-Control-House\\Inventory-Control\\Inventory-control.csproj",
+      "projectPath": "C:\\Users\\GEORGE III\\Repositorios-Trabajo\\Inventory-Control-House\\Inventory-control\\Inventory-control.csproj",
       "packagesPath": "C:\\Users\\GEORGE III\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GEORGE III\\Repositorios-Trabajo\\Inventory-Control-House\\Inventory-Control\\obj\\",
+      "outputPath": "C:\\Users\\GEORGE III\\Repositorios-Trabajo\\Inventory-Control-House\\Inventory-control\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\GEORGE III\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\GEORGE III\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
