@@ -297,19 +297,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jorge\\.nuget\\packages\\": {}
+    "C:\\Users\\GEORGE III\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorge\\repositorios-Trabajo\\Control-de-inventario-casa\\Inventory-control\\Inventory-control.csproj",
+      "projectUniqueName": "C:\\Users\\GEORGE III\\Repositorios-Trabajo\\Inventory-Control-House\\Inventory-Control\\Inventory-control.csproj",
       "projectName": "Inventory-control",
-      "projectPath": "C:\\Users\\Jorge\\repositorios-Trabajo\\Control-de-inventario-casa\\Inventory-control\\Inventory-control.csproj",
-      "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorge\\repositorios-Trabajo\\Control-de-inventario-casa\\Inventory-control\\obj\\",
+      "projectPath": "C:\\Users\\GEORGE III\\Repositorios-Trabajo\\Inventory-Control-House\\Inventory-Control\\Inventory-control.csproj",
+      "packagesPath": "C:\\Users\\GEORGE III\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GEORGE III\\Repositorios-Trabajo\\Inventory-Control-House\\Inventory-Control\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\GEORGE III\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

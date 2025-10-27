@@ -23,3 +23,28 @@ C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control
 C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventory-control.csproj.AssemblyReference.cache
 C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventory-control.sourcelink.json
 C:\Users\Jorge\repositorios-Trabajo\Control-de-inventario-casa\Inventory-control\obj\Debug\net9.0\Inventor.A816D37F.Up2Date
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\Inventory-control.exe
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\Inventory-control.deps.json
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\Inventory-control.runtimeconfig.json
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\Inventory-control.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\Inventory-control.pdb
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\ClosedXML.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\RBush.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventory-control.csproj.AssemblyReference.cache
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventory-control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventory-control.AssemblyInfoInputs.cache
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventory-control.AssemblyInfo.cs
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventory-control.csproj.CoreCompileInputs.cache
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventory-control.sourcelink.json
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventor.A816D37F.Up2Date
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventory-control.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\refint\Inventory-control.dll
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventory-control.pdb
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\Inventory-control.genruntimeconfig.cache
+C:\Users\GEORGE III\Repositorios-Trabajo\Inventory-Control-House\Inventory-control\obj\Debug\net9.0\ref\Inventory-control.dll

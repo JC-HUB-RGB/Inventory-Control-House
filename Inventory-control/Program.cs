@@ -49,6 +49,7 @@ switch (input)
         Console.WriteLine("--- LEYENDO ÍTEM ---");
 
         int nextRow = worksheet.LastRowUsed().RowNumber() + 1;
+        Console.WriteLine($"Última fila usada: {nextRow - 1}");
     if (nextRow <= 2) nextRow = 3; 
     
     Console.WriteLine($"Añadiendo ítem a la fila: {nextRow}"); 
